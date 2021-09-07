@@ -5,4 +5,4 @@ should be done. It has five flags: -h, -c, -l, -r, -a and they are to create a h
 on the suspect's google chrome, do a logical walkthrough of the machine, or to perform all functions, respectively. 
 
 Below is the output of the help flag if run in the Windows Command Prompt:
-![alt text](/images/flags)
+![alt text](/images/flags.png)
